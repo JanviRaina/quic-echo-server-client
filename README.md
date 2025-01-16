@@ -13,12 +13,3 @@ This repository contains a simple implementation of a QUIC-based server and clie
 ## Requirements
 - Python 3.9 or higher
 - `aioquic` library
-
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/quic-echo-server-client.git
-   cd quic-echo-server-client
-
-![image](https://github.com/user-attachments/assets/80ca288c-a317-4089-8c33-435e9ef3f777)
-![image](https://github.com/user-attachments/assets/e7eacf3b-cf55-492d-b585-198fcdfca6bd)
