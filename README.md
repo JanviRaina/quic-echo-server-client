@@ -13,3 +13,8 @@ This repository contains a simple implementation of a QUIC-based server and clie
 ## Requirements
 - Python 3.9 or higher
 - `aioquic` library
+
+
+![image](https://github.com/user-attachments/assets/ba60a083-020d-4e83-a0f7-2344dfc8e93e)
+
+![image](https://github.com/user-attachments/assets/569770db-d6f1-4265-9090-6022ad7aebd7)
